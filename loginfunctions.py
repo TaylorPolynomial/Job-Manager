@@ -6,8 +6,7 @@ import pandas as pd
 ### Global variables
 base_url  = 'https://www.reed.co.uk/'
 session = requests.session()
-email = 'damienkharley@gmail.com'
-password = 'Planck1034'          
+       
 
 
 def _get(url):
